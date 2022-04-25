@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'May 21, 2022',
-  name: "Momo 🤍"
+  birthdate: 'Jun 21, 2022',
+  
 };
 
 const confettiSettings = { target: 'confetti' };
