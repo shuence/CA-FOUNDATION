@@ -1,7 +1,7 @@
 
-# JeeMains Countdown ✌️
+# Ca Foundation exam Countdown ✌️
 
-Jee mains CountDown Web APP
+CA Foundation exam CountDown Web APP
 
 ## Authors
 
